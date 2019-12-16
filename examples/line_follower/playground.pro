@@ -11,4 +11,4 @@ QT += opengl widgets
 CONFIG          += qt warn_on debug
 QMAKE_CXXFLAGS += -std=c++0x -march=native
 
-LIBS	+= /usr/local/lib/libenki.a
+LIBS	+= ../../enki/libenki.a
